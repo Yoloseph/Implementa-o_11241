@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fishingRod>
+	<Product>
+		<name>Cana de Pesca Rapala</name>
+		<describ>Cana de pesca Rapala para alto mar</describ>
+		<price>75.50€</price>
+		<image>img/rod1.jpg</image>
+	</Product>
+	<Product>
+		<name>Cana de Pesca Shima</name>
+		<describ>Cana de pesca Shima para alto mar</describ>
+		<price>120.50€</price>
+		<image>img/rod2.jpg</image>
+	</Product>
+	<Product>
+		<name>Cana de Pesca Larbel</name>
+		<describ>Cana de pesca Larbel para rio</describ>
+		<price>25.75s€</price>
+		<image>img/rod3.jpg</image>
+	</Product>
+		<Product>
+		<name>Cana de Pesca Shima</name>
+		<describ>Cana de pesca Shima para Rio</describ>
+		<price>120.50€</price>
+		<image>img/rod2.jpg</image>
+	</Product>
+	<Product>
+		<name>Cana de Pesca Shima</name>
+		<describ>Cana de pesca Desportiva Larbel para alto rio</describ>
+		<price>25.75s€</price>
+		<image>img/rod3.jpg</image>
+	</Product>
+
+</fishingRod>

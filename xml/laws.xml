@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Laws>
+	<Law>
+		<type>Lei da caça em vigor</type>
+		<date>28/01/2017</date>
+		<describ>Este lei contra-se actuamente em vigor para todo o pais</describ>
+		<source>www.LeisDeCaça.pt/leiActual</source>
+	</Law>
+	<Law>
+		<type>Lei da caça (desactualizada)</type>
+		<date>18/05/2016</date>
+		<describ>Este lei contra-se actuamente desactualizada</describ>
+		<source>www.LeisDeCaça.pt/leisAntigas</source>
+	</Law>
+	<Law>
+		<type>Lei da caça (desactualizada)</type>
+		<date>28/06/2015</date>
+		<describ>Este lei contra-se actuamente desactualizada</describ>
+		<source>www.LeisDeCaça.pt/leisAntigas</source>
+	</Law>
+
+</Laws>
